@@ -16,8 +16,8 @@ public class App {
     }
     if (list.contains("--debug")) {
         printEx.openDebug();
-        
     }
+    // put your args processor here.
 
     new Main(isNogui);
    }
