@@ -2,9 +2,9 @@ package com.org.example.run;
 
 import com.org.example.func.*;
 
-public class runNogui implements Runnable{
-    public runNogui() {
-		// put your code here to init, such as loading config.
+public class runCLI implements Runnable{
+    public runCLI() {
+	// put your code here to init, such as loading config.
     }
     
     @Override
